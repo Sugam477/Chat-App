@@ -1,3 +1,3 @@
-A responsive web app built with HTML, CSS, JavaScript, and Firebase for authentication and real-time database features.  
-Ideal for showcasing full-stack web development basics.
+A responsive web app built with <b> HTML, CSS, JavaScript, and Firebase </b> for authentication and <b> real-time database features. </b>  
+Ideal for showcasing <b> full-stack web development </b> basics.
 # Chat-App
